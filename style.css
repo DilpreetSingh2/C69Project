@@ -1,0 +1,15 @@
+.Schoolimg{
+    width: 100%;
+    height: 500px;
+    border: none;
+}
+.travel_mainDev{
+    border: 1px solid lightgray;
+}
+.travel_mainDev img{
+    width: 100%;
+
+}
+.travel_mainDev h5 , .travel_mainDev p{
+    margin: 20px;
+}
